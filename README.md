@@ -9,7 +9,7 @@ Ce projet contient les implémentations en langage **C** de plusieurs types de l
 | ------------------------------- | --------- |
 | Noubao David Bacré              | 24G2910   |
 | Ngon-Assna Régis                | 24H2322   |
-| Bagoulong Beteïgué Maxime       | 2025003   |
+| Bagoulong Beteïgué Maxime       | 24F2600   |
 | Djidjose Kangrang Jean-Baptiste | 24G2709   |
 | Ngah Franc Le Roy               | 24G2049   |
 | Gormon Steeve Moïse             | 24G2069   |
